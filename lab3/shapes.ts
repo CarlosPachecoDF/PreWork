@@ -48,6 +48,6 @@ const redCircle = new Circle("red", 5);
 const redCircleArea = redCircle.getArea();
 console.log(redCircleArea);
 
-const blueRectangle = new Rectangle("blue", 4, 5);
+const blueRectangle = new Rectangle("blue", 4, 6);
 const blueRectangleArea = blueRectangle.getArea();
 console.log(blueRectangleArea)
