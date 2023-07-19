@@ -1,6 +1,6 @@
 let message : string = "Hello world"
 
-const printMessage = (msg : string) => {
+function printMessage(msg : string){
     console.log(msg)
 }
 
